@@ -12,4 +12,4 @@ Transaction status:
  
 If current balance goes less then $0.00 it gives a warning. 
 You can transfer upto $9000.
-Initially you have account balance of $200000.
+Initially you have account balance of $20000.
